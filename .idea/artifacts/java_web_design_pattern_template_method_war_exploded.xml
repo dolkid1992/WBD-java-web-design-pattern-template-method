@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="java-web-design-pattern-template-method:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_web_design_pattern_template_method_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="java-web-design-pattern-template-method/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="java-web-design-pattern-template-method" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
